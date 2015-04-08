@@ -23,7 +23,7 @@
   'use strict';
   var module = angular.module('onsen');
 
-  module.factory('DarkOverlaySlidingMenuAnimator', function(SlidingMenuAnimator) {
+  module.factory('DarkOverlaySlidingMenuAnimator', ['SlidingMenuAnimator', function(SlidingMenuAnimator) {
 
     var DarkOverlaySlidingMenuAnimator = SlidingMenuAnimator.extend({
 
@@ -249,6 +249,5 @@
     });
 
     return DarkOverlaySlidingMenuAnimator;
-  });
-
+  }]);
 })();
