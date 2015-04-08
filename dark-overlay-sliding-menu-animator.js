@@ -51,7 +51,7 @@
         this._element = element;
         this._mainPage = mainPage;
         this._menuPage = menuPage;
-        this._duration = 0.4;
+        this._duration = 0.3;
 
         menuPage.css({
           width: options.width,
