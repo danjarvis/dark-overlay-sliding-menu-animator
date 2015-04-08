@@ -1,0 +1,26 @@
+{
+  "name": "dark-overlay-sliding-menu-animator",
+  "main": "dark-overlay-sliding-menu-animator.js",
+  "version": "0.1.0",
+  "authors": [
+    "Dan Jarvis <djarvis270@gmail.com>"
+  ],
+  "description": "Sliding menu animator for OnsenUI with a dark overlay.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "onsenui",
+    "angular",
+    "animate",
+    "sliding-menu"
+  ],
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
