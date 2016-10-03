@@ -6,10 +6,11 @@ A sliding menu animator for [OnsenUI](http://onsen.io) which provides a darker o
 Installation
 ------------
 
-Install with [bower](http://bower.io):
+Install with [bower](http://bower.io) or [npm](http://npmjs.com)
 
 	bower install dark-overlay-sliding-menu-animator
 
+	npm install dark-overlay-sliding-menu-animator
 
 Usage
 -----
